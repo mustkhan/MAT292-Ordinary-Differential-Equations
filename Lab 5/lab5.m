@@ -11,7 +11,7 @@
 % Opening the m-file lab5.m in the MATLAB editor, step through each
 % part using cell mode to see the results.
 %
-% There are seven (7) exercises in this lab that are to be handed in on the
+% There are seven exercises in this lab that are to be handed in on the
 % due date of the lab.
 %
 %% Student Information
